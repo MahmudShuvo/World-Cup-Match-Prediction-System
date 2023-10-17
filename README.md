@@ -1,6 +1,6 @@
 # World-Cup-Match-Prediction-System
 
-It's a group work of 5 members from one one my university course CSE370(Database Systems)
+It's a group work of 5 members from one of my university 3rd year course CSE370(Database Systems)
 
 Report and explaination: https://docs.google.com/document/d/1h6Ti-282pkcNaAcAI50FO7f4Ewa-wPXcGnNXAYWUoCc/edit?fbclid=IwAR3_NhzP2codTFKq_JCKvO4Vh6XIAYAWgu8bIWag6kFoT-yZHhui_bZXyjQ
 
